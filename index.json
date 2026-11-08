@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "gen-ui-workflow",
+  "versions": [
+    {
+      "commit": "addec0c51e38ca5dbab6f3f470f6ca82ce54a670",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:47:14.378923+00:00"
+    }
+  ]
+}
